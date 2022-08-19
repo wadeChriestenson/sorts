@@ -1,4 +1,4 @@
-# Python Sorting Algorithms
+# ***Python Sorting Algorithms***
 
-## Bubble
-## selection
+## *Bubble*
+## *Selection*
