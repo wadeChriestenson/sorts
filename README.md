@@ -1,3 +1,4 @@
 # Python Sorting Algorithms
-## Buuble
-## Selection
+
+## Bubble
+## selection
